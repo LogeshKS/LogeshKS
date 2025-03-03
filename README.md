@@ -12,6 +12,12 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about devops
 - 📫 How to reach me: logeshshyam21@gmail.com
+
+**Certifications**
+
+- Google Cloud Certified Associate Cloud Engineer
+- AWS Certified Developer Associate
+
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

@@ -17,6 +17,7 @@ Here are some ideas to get you started:-->
 
 - Google Cloud Certified Associate Cloud Engineer
 - AWS Certified Developer Associate
+- Goole Cloud Professional Cloud Architect
 
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
